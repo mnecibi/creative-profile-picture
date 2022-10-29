@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/THEMahdouch/image-text-generator.git"
+    "url": "git+ssh://git@github.com/mnecibi/image-text-generator.git"
   },
   "keywords": [
     "p5.js",
@@ -18,12 +18,12 @@
     "text",
     "generator"
   ],
-  "author": "THEMahdouch",
+  "author": "mnecibi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/THEMahdouch/image-text-generator/issues"
+    "url": "https://github.com/mnecibi/image-text-generator/issues"
   },
-  "homepage": "https://github.com/THEMahdouch/image-text-generator#readme",
+  "homepage": "https://github.com/mnecibi/image-text-generator#readme",
   "dependencies": {
     "browserify": "^16.5.1",
     "eslint": "^6.8.0",
